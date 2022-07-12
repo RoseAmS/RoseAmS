@@ -4,7 +4,7 @@
 I'm Rose, a Frontend Developer with a Data Analytics & Business Intelligence background, who loves systems and clean but detail-oriented designs.
 
 
-## MORE ABOUT ME
+### MORE ABOUT ME
 
 - ⚙️ I love: `.js`, `.jsx`, `.html`, `.css`, `.svg`, `.psd`, `.pbix`
 - 🌱 Learning all about **Web Development**
